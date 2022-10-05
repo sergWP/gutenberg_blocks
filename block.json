@@ -1,0 +1,10 @@
+{
+  "apiVersion": 2,
+  "name": "custom/firstblock",
+  "title": "First Block",
+  "description": "My first Gutenberg block",
+  "category": "text",
+  "icon": "editor-alignleft",
+  "textdomain": "firstblock",
+  "editorScript": "file:./index.js"
+}
